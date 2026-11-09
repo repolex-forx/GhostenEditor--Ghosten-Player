@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/GhostenEditor/Ghosten-Player/commit/8c4fc325c2f816470cb60c1123fd7d7cdb884941",
       "git:hexsha": "8c4fc325c2f816470cb60c1123fd7d7cdb884941",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v2.4.7"
     },
     {
