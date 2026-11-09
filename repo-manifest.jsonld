@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/GhostenEditor/Ghosten-Player/commit/8c4fc325c2f816470cb60c1123fd7d7cdb884941",
       "git:hexsha": "8c4fc325c2f816470cb60c1123fd7d7cdb884941",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v2.4.7"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v2.4.7",
+      "repolex:parsedAt": "2026-11-09T21:13:18.190851+00:00"
     },
     {
       "@id": "https://repolex.ai/r/GhostenEditor/Ghosten-Player/commit/dec7607fed3feb6b3c2fd22ece80b4b2104de463",
