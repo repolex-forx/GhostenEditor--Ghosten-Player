@@ -1,0 +1,11 @@
+{
+  "org": "GhostenEditor",
+  "repo": "Ghosten-Player",
+  "versions": [
+    {
+      "commit": "8c4fc325c2f816470cb60c1123fd7d7cdb884941",
+      "tag": "v2.4.7",
+      "parsed_at": "2026-11-09T21:13:18.191783+00:00"
+    }
+  ]
+}
